@@ -7,9 +7,11 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("First Draft");
-        System.out.println("random number");
+
+        System.out.println("random number updated.");
 
         RefTest.printClassName();
+
     }
 
 }
