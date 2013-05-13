@@ -7,7 +7,7 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("First Draft");
-        System.out.println("random number" + new GenerateRandomNumber().generate());
+        System.out.println("random number updated." + new GenerateRandomNumber().generate());
     }
 
 }
