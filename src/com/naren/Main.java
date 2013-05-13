@@ -7,9 +7,9 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("First Draft");
-        System.out.println("random number updated.");
+        System.out.println("random number updated." + new GenerateRandomNumber().generate());
+        System.out.println("Final set of changes...");
         RefTest.printClassName();
-
     }
 
 }
